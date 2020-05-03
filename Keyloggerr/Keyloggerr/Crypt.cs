@@ -15,6 +15,7 @@ namespace Keyloggerr
         {
             try
             {
+                //schimbati voi aici calea cu fisierul
                 string textToEncrypt = "c:/Users/Paul/source/repos/Keyloggerr/Keyloggerr/bin/x86/Debug/loggedkeys.txt";
                 string ToReturn = "";
                 string publickey = "paulpaul";
@@ -28,6 +29,7 @@ namespace Keyloggerr
                 byte[] inputbyteArray = System.Text.Encoding.UTF8.GetBytes(textToEncrypt);
                 using (DESCryptoServiceProvider des = new DESCryptoServiceProvider())
                 {
+                    //TODO
                     //criptez textul din loggedkeys si il pun in criptat
                     ms = new MemoryStream();
                     cs = new CryptoStream(ms, des.CreateEncryptor(publickeybyte, secretkeyByte), CryptoStreamMode.Write);
@@ -60,6 +62,7 @@ namespace Keyloggerr
                 inputbyteArray = Convert.FromBase64String(textToDecrypt.Replace(" ", "+"));
                 using (DESCryptoServiceProvider des = new DESCryptoServiceProvider())
                 {
+                    //TODO
                     //decriptez textul din criptat si il pun in decriptat
                     ms = new MemoryStream();
                     cs = new CryptoStream(ms, des.CreateDecryptor(publickeybyte, privatekeyByte), CryptoStreamMode.Write);

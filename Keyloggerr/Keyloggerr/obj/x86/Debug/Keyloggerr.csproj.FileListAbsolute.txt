@@ -1,0 +1,10 @@
+C:\Users\Paul\source\repos\Keyloggerr\Keyloggerr\bin\x86\Debug\Keyloggerr.exe.config
+C:\Users\Paul\source\repos\Keyloggerr\Keyloggerr\bin\x86\Debug\Keyloggerr.exe
+C:\Users\Paul\source\repos\Keyloggerr\Keyloggerr\bin\x86\Debug\Keyloggerr.pdb
+C:\Users\Paul\source\repos\Keyloggerr\Keyloggerr\obj\x86\Debug\Keyloggerr.Form1.resources
+C:\Users\Paul\source\repos\Keyloggerr\Keyloggerr\obj\x86\Debug\Keyloggerr.Properties.Resources.resources
+C:\Users\Paul\source\repos\Keyloggerr\Keyloggerr\obj\x86\Debug\Keyloggerr.csproj.GenerateResource.cache
+C:\Users\Paul\source\repos\Keyloggerr\Keyloggerr\obj\x86\Debug\Keyloggerr.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\Keyloggerr\Keyloggerr\obj\x86\Debug\Keyloggerr.exe
+C:\Users\Paul\source\repos\Keyloggerr\Keyloggerr\obj\x86\Debug\Keyloggerr.pdb
+C:\Users\Paul\source\repos\Keyloggerr\Keyloggerr\obj\x86\Debug\Keyloggerr.csprojAssemblyReference.cache
